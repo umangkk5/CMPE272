@@ -1,0 +1,27 @@
+.cartitem{
+    width: 70vw;
+    height: 200px;
+    background-color: white;
+    margin-left: 180px;
+    margin-bottom: 50px;
+    box-shadow: 5px 5px 5px #888888;
+}
+.topitem{
+    margin-top:0px;
+}
+.carttitle{
+	font-weight: 900px;
+	font-size: 30px;
+	color: white;
+	margin-top: 150px;
+	margin-left: 200px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+#item_p {
+	margin: 110px 20px 20px 20px;
+	width: 94vw;
+	color: #000000;
+  background-color: white;
+  box-shadow: 5px 5px 5px #777777;
+}
